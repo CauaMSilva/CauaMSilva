@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Cauã Maciel
 
-🎓 Eu sou o Cauã, estudante universitário de ciencia da computação, atualmente aprendendo e desenvolvendo projetos com foco em JavaScript, Node.js, HTML, CSS e Banco de Dados (MySQL).
+🎓 Eu sou o Cauã, estudante universitário de ciência da computação, atualmente aprendendo e desenvolvendo projetos com foco em JavaScript, Node.js, HTML, CSS e Banco de Dados (MySQL).
 📌 Este repositório faz parte da minha jornada de estudos e prática em programação.
 
 ### 💡 Sobre mim
