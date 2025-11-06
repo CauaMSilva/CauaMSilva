@@ -10,7 +10,7 @@ Eu sou o Cauã, estudante universitário de ciência da computação, atualmente
 - Metas: Dominar padrões de projetos e principios(SOLID)
 - Aprendendo e curtindo o processo!
 
-* Tecnologias que estou estudando
+** Tecnologias que estou estudando
 
 - JavaScript (ES6+) orientado ao objeto
 
@@ -22,9 +22,9 @@ Eu sou o Cauã, estudante universitário de ciência da computação, atualmente
 
 - Banco de Dados Relacional (SQLite)
 
-Arquitetura de softwares
+- Arquitetura de softwares
 
-* O que você encontrará aqui
+** O que você encontrará aqui
 
 - Projetos simples para praticar fundamentos
 
@@ -35,7 +35,7 @@ Arquitetura de softwares
 - Práticas de programação orientada a objeto(Herança, polimorfismo e etc...)
 
 
-* Objetivos de aprendizado
+** Objetivos de aprendizado
 
 - Criar aplicações completas (front-end + back-end)
 
