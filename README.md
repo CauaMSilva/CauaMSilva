@@ -1,45 +1,46 @@
-# 👋 Olá! Eu sou Cauã Maciel
+# Olá! Eu sou Cauã Maciel
 
-🎓 Eu sou o Cauã, estudante universitário de ciência da computação, atualmente aprendendo e desenvolvendo projetos com foco em JavaScript, Node.js, HTML, CSS e Banco de Dados (MySQL).
-📌 Este repositório faz parte da minha jornada de estudos e prática em programação.
+Eu sou o Cauã, estudante universitário de ciência da computação, atualmente aprendendo e desenvolvendo projetos com foco em JavaScript, Node.js, HTML, CSS e Banco de Dados (MongoDB e SQLite). Tenho experiência com JavaScript, NodeJS, MongoDB, TypeScript, git/github e tenho noções a respeito das linguagens Java(POO), C e C++
 
-### 💡 Sobre mim
+* Este repositório faz parte da minha jornada de estudos e prática em programação.
 
-- 💻 Foco atual: JavaScript, Nodejs, HTML, CSS, git, github e MySQL
-- 🎯 Metas: dominar lógica, criar programas úteis e entrar na área de tecnologia
-- 📚 Aprendendo e curtindo o processo!
+### Sobre mim
 
-🚀 Tecnologias que estou estudando
+- Foco atual: arquitetura de software (MVC, Clean Architecture, SOLID).
+- Metas: Dominar padrões de projetos e principios(SOLID)
+- Aprendendo e curtindo o processo!
 
-JavaScript (ES6+)
+* Tecnologias que estou estudando
 
-Node.js
+- JavaScript (ES6+) orientado ao objeto
 
-HTML5
+- TypeScript
 
-CSS3
+- ORM com sequelize
 
-Banco de Dados Relacional (MySQL)
+- Aprimorando o desenvolvimento de APIs REST
 
-Controle de Versão (Git & GitHub)
+- Banco de Dados Relacional (SQLite)
 
-📂 O que você encontrará aqui
+Arquitetura de softwares
 
-Projetos simples para praticar fundamentos
+* O que você encontrará aqui
 
-Pequenos sistemas em Node.js com leitura/escrita de arquivos
+- Projetos simples para praticar fundamentos
 
-Exercícios de lógica e estrutura de dados em JavaScript
+- Pequenos sistemas em Node.js com leitura/escrita de arquivos e permanência de dados com banco de dados
 
-Experimentos com front-end (HTML + CSS)
+- Exercícios de lógica e estrutura de dados em JavaScript
+
+- Práticas de programação orientada a objeto(Herança, polimorfismo e etc...)
 
 
-📖 Objetivos de aprendizado
+* Objetivos de aprendizado
 
-Criar aplicações completas (front-end + back-end)
+- Criar aplicações completas (front-end + back-end)
 
-Melhorar a organização do código com boas práticas de Git e GitHub
+- Melhorar a organização do código com boas práticas de Git e GitHub
 
-Dominar SQL e integração com Node.js
+- Dominar SQL e integração com Node.js
 
-Me aprofundar em frameworks futuramente (ex: React, Express)
+- Me aprofundar em frameworks futuramente (ex: React, Angular etc...)
