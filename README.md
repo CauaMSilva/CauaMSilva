@@ -1,6 +1,6 @@
 # Olá! Eu sou Cauã Maciel
 
-Eu sou o Cauã, estudante universitário de ciência da computação, atualmente aprendendo e desenvolvendo projetos com foco em JavaScript, Node.js, HTML, CSS e Banco de Dados (MongoDB e SQLite). Tenho experiência com JavaScript, NodeJS, MongoDB, TypeScript, git/github e tenho noções a respeito das linguagens Java(POO), C e C++
+Eu sou o Cauã, estudante universitário de ciência da computação, atualmente aprendendo e desenvolvendo projetos com foco em JavaScript, Node.js, HTML, CSS e Banco de Dados (MongoDB e SQLite). Tenho experiência com JavaScript, NodeJS, MongoDB, TypeScript, git/github, C, Java e tenho noções a respeito das linguagens Python, C++
 
 * Este repositório faz parte da minha jornada de estudos e prática em programação.
 
