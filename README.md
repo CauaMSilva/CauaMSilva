@@ -1,46 +1,122 @@
-# Olá! Eu sou Cauã Maciel
+# Cauã Maciel
 
-Eu sou o Cauã, estudante universitário de ciência da computação, atualmente aprendendo e desenvolvendo projetos com foco em JavaScript, Node.js, HTML, CSS e Banco de Dados (MongoDB e SQLite). Tenho experiência com JavaScript, NodeJS, MongoDB, TypeScript, git/github, C, Java e tenho noções a respeito das linguagens Python, C++
+**`Desenvolvedor FullStack`**
 
-* Este repositório faz parte da minha jornada de estudos e prática em programação.
+Eu sou o Cauã, estudante de ciência da computação, atualmente focado em desenvolvimento full stack, com experiência em TypeScript, HTML, CSS, NodeJS, Sequelize, Express,MongoDB, MySQL e noções básicas de Java, C, C++ e Python.
 
-### Sobre mim
+---
 
-- Foco atual: arquitetura de software (MVC, Clean Architecture, SOLID).
-- Metas: Dominar padrões de projetos e principios(SOLID)
-- Aprendendo e curtindo o processo!
+### Linguagens e Tecnologias
 
-** Tecnologias que estou estudando
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NodeJS"
+    title="NodeJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Sequelize"
+    title="Sequelize"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg"
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img 
+    align="left" 
+    alt="MongoDB"
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+/>
+<br/>
+<br/>
 
-- JavaScript (ES6+) orientado ao objeto
+---
 
-- TypeScript
+### Estatísticas
 
-- ORM com sequelize
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=CauaMSilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-- Aprimorando o desenvolvimento de APIs REST
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaMSilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-- Banco de Dados Relacional (SQLite)
+</p>
 
-- Arquitetura de softwares
+---
 
-** O que você encontrará aqui
+### Encontre-me aqui
 
-- Projetos simples para praticar fundamentos
-
-- Pequenos sistemas em Node.js com leitura/escrita de arquivos e permanência de dados com banco de dados
-
-- Exercícios de lógica e estrutura de dados em JavaScript
-
-- Práticas de programação orientada a objeto(Herança, polimorfismo e etc...)
-
-
-** Objetivos de aprendizado
-
-- Criar aplicações completas (front-end + back-end)
-
-- Melhorar a organização do código com boas práticas de Git e GitHub
-
-- Dominar SQL e integração com Node.js
-
-- Me aprofundar em frameworks futuramente (ex: React, Angular etc...)
+<a href="https://www.linkedin.com/in/cau%C3%A3-maciel/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
