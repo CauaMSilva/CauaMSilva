@@ -4,12 +4,13 @@
 
 **`Desenvolvedor FullStack`**
 
-Eu sou o Cauã, estudante de ciência da computação, atualmente focado em desenvolvimento full stack, com experiência em TypeScript, HTML, CSS, NodeJS, Sequelize, Express,MongoDB, MySQL e noções básicas de Java, C, C++ e Python.
+Eu sou o Cauã, estudante de ciência da computação, atualmente focado em desenvolvimento full stack, com experiência em TypeScript, React, NodeJS, Sequelize,Express,MongoDB, MySQL e noções básicas de Java, C e Python.
 
 Atualmente estou estudando:
 
-- React e NestJS
+- NestJS
 - Computação em nuvem
+- Análise de dados
 - Aprimorando autenticação e desenvolvimento Back-end
 - Estrutura de dados
 - como os computadores funcionam (minha curiosidade)
@@ -22,7 +23,7 @@ Gosto de entender como as coisas funcionam por trás dos sistemas, desde o layou
 
 - Evoluir como desenvolvedor Fullstack
 - Criar projetos reais para portfólio
-- Aprender boas práticas e arquitetura de software
+- Aplicar minhas habilidades em projetos reais
 - Contribuir para projetos open source futuramente
 
 ---
